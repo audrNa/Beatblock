@@ -1,0 +1,24 @@
+[
+  {
+    "type": "setColor",
+    "b": 145,
+    "color": 3,
+    "angle": 157.5,
+    "duration": 0.25,
+    "ease": "linear",
+    "r": 255,
+    "time": 0,
+    "g": 195
+  },
+  {
+    "color": 3,
+    "ease": "inOutSine",
+    "duration": 1,
+    "angle": 135,
+    "b": 102,
+    "type": "setColor",
+    "r": 248,
+    "time": 0.25,
+    "g": 167
+  }
+]

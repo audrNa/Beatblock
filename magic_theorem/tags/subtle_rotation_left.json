@@ -1,0 +1,29 @@
+[
+  {
+    "type": "deco",
+    "r": -120,
+    "ease": "linear",
+    "duration": 63,
+    "id": "ring_3",
+    "time": 0,
+    "angle": 90
+  },
+  {
+    "r": -120,
+    "id": "ring_1",
+    "ease": "linear",
+    "duration": 63,
+    "type": "deco",
+    "time": 0,
+    "angle": 45
+  },
+  {
+    "id": "ring_2",
+    "type": "deco",
+    "ease": "linear",
+    "duration": 63,
+    "r": 120,
+    "time": 0,
+    "angle": 67.5
+  }
+]

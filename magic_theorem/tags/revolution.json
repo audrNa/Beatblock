@@ -1,0 +1,1 @@
+[{"order":0,"r":45,"id":"ring_1","ease":"inOutSine","duration":2,"type":"deco","time":0,"angle":45},{"order":0,"id":"ring_2","r":45,"ease":"inOutSine","duration":2,"type":"deco","time":0,"angle":67.5},{"order":0,"id":"ring_3","type":"deco","ease":"inOutSine","duration":2,"r":45,"time":0,"angle":90}]

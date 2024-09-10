@@ -1,0 +1,60 @@
+[
+  {
+    "color": 4,
+    "ease": "linear",
+    "duration": 0.5,
+    "angle": 315,
+    "b": 102,
+    "g": 167,
+    "type": "setColor",
+    "time": 0,
+    "r": 248
+  },
+  {
+    "color": 4,
+    "ease": "outSine",
+    "duration": 0.5,
+    "g": 255,
+    "b": 255,
+    "angle": 292.5,
+    "type": "setColor",
+    "time": 1,
+    "r": 255
+  },
+  {
+    "parentid": "",
+    "angle": 202.5,
+    "type": "deco",
+    "x": 300,
+    "y": 180,
+    "oy": 159,
+    "id": "ring_1",
+    "r": 45,
+    "time": 0.5,
+    "ox": 159
+  },
+  {
+    "parentid": "",
+    "angle": 247.5,
+    "id": "ring_2",
+    "x": 300,
+    "ox": 159,
+    "oy": 159,
+    "r": 90,
+    "type": "deco",
+    "time": 0.5,
+    "y": 180
+  },
+  {
+    "parentid": "",
+    "angle": 292.5,
+    "r": 135,
+    "x": 300,
+    "ox": 159,
+    "oy": 159,
+    "type": "deco",
+    "id": "ring_3",
+    "time": 0.5,
+    "y": 180
+  }
+]
