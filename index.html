@@ -1,0 +1,76 @@
+<!--
+	This GitHub Pages acts as a URL shortener for my published Beatblock levels.
+-->
+<!DOCTYPE html>
+
+<html>
+	<script>
+		const 	  REPOSITORY_PAGE = "https://github.com/audrNa/lob?tab=readme-ov-file"
+		const   LEVEL_PAGE_FORMAT = "https://github.com/audrNa/lob/tree/master/{name}#readme"
+		const DOWNLOAD_URL_FORMAT = "https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FaudrNa%2Flob%2Ftree%2Fmaster%2F{name}&filename=audrNa_{name}"
+		const urlParams = new URLSearchParams(window.location.search) 
+
+		/** Fun fact: this is my first mini "project" in Neovim!
+		 *  I actually barely have web dev set up in 
+		 *  here but it's enough for now
+		 */
+		let levelName = urlParams.get("l")
+		if (levelName) {
+			const redirectUrl = LEVEL_PAGE_FORMAT.replace("{name}", levelName)
+			window.location.replace(redirectUrl)
+		}
+
+		/** I got converted into Neovim by a friend, he got a 
+		 *  cool video that help me set everything up!
+		 * 	https://www.youtube.com/watch?v=Y0AvVbAE0tA
+		 */
+		levelName = urlParams.get("download")
+		if (levelName) {
+			const redirectUrl = DOWNLOAD_URL_FORMAT.replaceAll("{name}", levelName)
+			window.location.replace(redirectUrl)
+		}
+
+		// man visited without any valid url params
+		window.location.replace(REPOSITORY_PAGE)
+
+		/** 
+                                                  @@@+                                                  
+                                                  @  @@@@@@@                                            
+                                                 @@         @@@@                                        
+                                                 @@            @@@@#                                    
+                                                 @                 @@@                                  
+                                                 @                    @@@                               
+                                                 @                      @@                              
+                                                   @@@@@                  @@                            
+                                                       @@@@                @@                          
+                                                            @@@              @@                         
+                                                            %@ @@              @@                       
+                                                           @@    @@@            @@                      
+                                                          @@       @@            @@                     
+                                     @@@@@@@@@@@@@@@    @@           @@           #@                    
+                                 @@@@               @@@@@           @@@@           @@                   
+                               @@@                      @@       @@.   @@           @                   
+                             @@                           @@  :@@        @           @@                 
+                            @                               @@:          @@          @@                 
+                          @@                                 @@           @@          @                 
+                         @@               @@@       @@@       @@          +@      @@@@@@                
+                        @@                @@@       @@@        @@          @@@@@@@@                     
+                        @                 @@@       @@@         @                                       
+                        @                 @@@       @@@         @                                       
+                       @*                 @@@       @@@          @                                      
+                       @=                 @@@       @@@          @                                      
+                       @@                                       @@                                      
+                        @                                       @                                       
+                        @                                       @                                       
+                        @@                                     @@                                       
+                         @@                                   @@                                        
+                          @@#                                @@                                         
+                            @                               @                                           
+                             @@                           @@                                            
+                               @@@                     #@@                                              
+                                 @@@@               @@@@                                                
+                                     @@@@@@@@@@@@@@@                                                                                     
+		 **/
+	</script>
+</html>
+	
