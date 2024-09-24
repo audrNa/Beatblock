@@ -1,6 +1,6 @@
 # Monster Siren Records - Magic Theorem
 
-# [Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FaudrNa%2Flob%2Ftree%2Fmaster%2Fmagic_theorem)
+# [Download](https://audrna.github.io/lob?download=magic_theorem)
 
 ## Description
 
