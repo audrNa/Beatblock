@@ -93,7 +93,7 @@
 			let PascalText = snake_text[0].toUpperCase()
 			for (let c = 1; c < snake_text.length; c++) {
 				let char = snake_text[c]
-				if (char === "_") {
+				if (char === "_" || char === "/") {
 					c++
 					char = snake_text[c].toUpperCase()
 				}
