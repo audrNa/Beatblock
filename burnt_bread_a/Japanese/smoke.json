@@ -1,0 +1,12 @@
+{
+	"width": 16,
+	"height": 16,
+	"states": [
+		{
+			"name": "rip",
+			"frames": [0, 1, 2],
+			"fps": 4,
+			"loop": true
+		}
+	]
+}

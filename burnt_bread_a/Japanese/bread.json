@@ -1,0 +1,12 @@
+{
+	"width": 32,
+	"height": 32,
+	"states": [
+		{
+			"name": "burnt",
+			"frames": [0, 1, 2],
+			"fps": 4,
+			"loop": true
+		}
+	]
+}

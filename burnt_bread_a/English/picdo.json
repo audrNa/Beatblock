@@ -1,0 +1,12 @@
+{
+  "width": 44,
+  "height": 44,
+  "states": [
+    {
+      "name": "breathing",
+      "frames": [0, 1, 2, 1],
+      "fps": 4,
+      "loop": true
+    }
+  ]
+}

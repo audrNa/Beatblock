@@ -1,0 +1,46 @@
+[
+  {
+    "ease": "linear",
+    "duration": 0.125,
+    "repeats": 6,
+    "repeatDelay": 16,
+    "var": "vfx.canvPos.sx",
+    "angle": 270,
+    "type": "ease",
+    "time": 0,
+    "value": 1.025
+  },
+  {
+    "ease": "linear",
+    "duration": 0.125,
+    "repeats": 6,
+    "repeatDelay": 16,
+    "var": "vfx.canvPos.sy",
+    "angle": 247.5,
+    "value": 1.025,
+    "time": 0,
+    "type": "ease"
+  },
+  {
+    "ease": "outSine",
+    "type": "ease",
+    "repeats": 6,
+    "repeatDelay": 16,
+    "var": "vfx.canvPos.sx",
+    "value": 1,
+    "angle": 225,
+    "time": 0.125,
+    "duration": 0.125
+  },
+  {
+    "ease": "outSine",
+    "duration": 0.125,
+    "repeats": 6,
+    "repeatDelay": 16,
+    "var": "vfx.canvPos.sy",
+    "angle": 202.5,
+    "type": "ease",
+    "time": 0.125,
+    "value": 1
+  }
+]
