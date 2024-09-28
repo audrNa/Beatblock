@@ -27,3 +27,4 @@ At this time I am also very busy with other things, so I don't have much time to
 - **Music and Illust**: [picdo who had his bread burnt](https://www.youtube.com/@picdo1797)
 - **Vocals**: Adachi Rei who is dancing
 - **Charting and VFX**: [audrNa who is bad at VFX](https://audrna.github.io)
+- **Lyrics Translation**: [river](https://vocaloidlyrics.fandom.com/wiki/%E3%83%91%E3%83%B3%E3%81%93%E3%81%92%E3%81%93%E3%81%92%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F_(Pan_Kogekoge_ni_Nacchatta))
